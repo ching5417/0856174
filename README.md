@@ -1,4 +1,4 @@
-# 0856174
+# NYCU Software Testing 2021 - Lab3 demo
 [![Build Status](https://travis-ci.com/ching5417/0856174.svg?branch=main)](https://travis-ci.com/ching5417/0856174)
 
 - Pass
